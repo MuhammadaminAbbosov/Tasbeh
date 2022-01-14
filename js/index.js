@@ -33,7 +33,6 @@ clear.addEventListener("click",function(e) {
     e.preventDefault()
     s = 0
     document.getElementById("counter").textContent = s
-
-    if(Number(s) % 33 === 0)
-        document.querySelector(".circle").style.border = "5px solid rgb(23, 247, 23)"
+    document.querySelector(".word").textContent = "Subhanalloh"
+    document.querySelector(".arab").textContent = "سبحان الله"
 })
