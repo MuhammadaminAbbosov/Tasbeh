@@ -65,7 +65,7 @@ body {
 
 .container form button:first-child {
   background-color: #3cce3c;
-  color: wheat;
+  color: white;
   -webkit-box-shadow: 0px 4px black;
           box-shadow: 0px 4px black;
   cursor: pointer;
@@ -78,7 +78,7 @@ body {
 
 .container form button:last-child {
   background-color: #eb4747;
-  color: wheat;
+  color: white;
   cursor: pointer;
   -webkit-box-shadow: 0px 4px black;
           box-shadow: 0px 4px black;
